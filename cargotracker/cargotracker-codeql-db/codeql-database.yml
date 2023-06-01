@@ -1,0 +1,10 @@
+---
+sourceLocationPrefix: /home/rkrsn/workspace/dgi-sample-applications/cargotracker/source
+baselineLinesOfCode: 7000
+unicodeNewlines: false
+columnKind: utf16
+primaryLanguage: java
+creationMetadata:
+  cliVersion: 2.13.1
+  creationTime: 2023-05-28T22:33:01.469174381Z
+finalised: true
