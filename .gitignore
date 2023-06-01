@@ -20,7 +20,7 @@
 
 # Don't ignore jar files in any level of binary and dependencies
 !**/binary/**/*.jar
-!**/dependencies/**/*.jar
+!**/libs/**/*.jar
 
 # virtual machine crash logs
 hs_err_pid*
