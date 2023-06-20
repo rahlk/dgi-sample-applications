@@ -19,7 +19,7 @@
 *.rar
 
 # Don't ignore jar files in any level of binary and dependencies
-!**/binary/**/*.jar
+!**/binaries/**/*.jar
 !**/libs/**/*.jar
 
 # virtual machine crash logs
